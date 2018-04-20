@@ -19,6 +19,6 @@ To submit your code, please create a public repository for this code on GitHub, 
 
 
 ## Test Cases Done
-1.	Should keep paths without namespaces unchanged
-1.	Should return path name "../lib/expandNamespace
-1.	`<lib>` should be not defined
+1.	Should keep paths without namespaces unchanged.
+1.	Should return path name "../lib/expandNamespace".
+1.	`<lib>` should be not defined.
